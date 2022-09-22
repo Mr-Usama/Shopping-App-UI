@@ -10,6 +10,7 @@ Shopping Page created in Flutter.
 
 - Landscape mode
 
+
 ![2](https://user-images.githubusercontent.com/61762281/191772476-8caf0d69-d6e3-4dcd-ba61-e2f5dc348ac4.jpg)
 
 ![3](https://user-images.githubusercontent.com/61762281/191772510-bb9a894a-e38c-4db5-b0b8-d2d5e743958e.jpg)
